@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace CalculatorSample
+namespace CalculatorExample
 {
-    internal class Calculator : ICalculator
+    public class Calculator : ICalculator
     {
         
 

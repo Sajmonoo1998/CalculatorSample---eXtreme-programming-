@@ -1,6 +1,6 @@
-﻿namespace CalculatorSample
+﻿namespace CalculatorExample
 {
-    internal interface ICalculator
+    public interface ICalculator
     {
         int Result { get; } // property keeping the current result of the calculator
         void Reset(); // resets the current result of the calculator
